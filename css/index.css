@@ -1,0 +1,24 @@
+
+.content .order_list .order_item{
+    font-size: 15px;
+    margin: 10px;
+    background-color: gainsboro;
+    width: 380px;
+    height: 60px;
+}
+
+.content .order_list .order_item input{
+    height: 20px;
+    width: 220px;
+    font-size: 15px;
+}
+
+.order_list .btnClass{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 3px;
+}
+
+.order_list .order_item .bottom{
+    margin-top: 10px;
+}
